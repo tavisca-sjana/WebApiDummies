@@ -1,0 +1,11 @@
+c:\users\sjana\source\repos\WebApiDummies\WebApiDummies\bin\Debug\netcoreapp1.1\WebApiDummies.deps.json
+c:\users\sjana\source\repos\WebApiDummies\WebApiDummies\bin\Debug\netcoreapp1.1\WebApiDummies.runtimeconfig.json
+c:\users\sjana\source\repos\WebApiDummies\WebApiDummies\bin\Debug\netcoreapp1.1\WebApiDummies.runtimeconfig.dev.json
+c:\users\sjana\source\repos\WebApiDummies\WebApiDummies\bin\Debug\netcoreapp1.1\WebApiDummies.dll
+c:\users\sjana\source\repos\WebApiDummies\WebApiDummies\bin\Debug\netcoreapp1.1\WebApiDummies.pdb
+c:\users\sjana\source\repos\WebApiDummies\WebApiDummies\obj\Debug\netcoreapp1.1\WebApiDummies.csprojResolveAssemblyReference.cache
+c:\users\sjana\source\repos\WebApiDummies\WebApiDummies\obj\Debug\netcoreapp1.1\WebApiDummies.csproj.CoreCompileInputs.cache
+c:\users\sjana\source\repos\WebApiDummies\WebApiDummies\obj\Debug\netcoreapp1.1\WebApiDummies.AssemblyInfoInputs.cache
+c:\users\sjana\source\repos\WebApiDummies\WebApiDummies\obj\Debug\netcoreapp1.1\WebApiDummies.AssemblyInfo.cs
+c:\users\sjana\source\repos\WebApiDummies\WebApiDummies\obj\Debug\netcoreapp1.1\WebApiDummies.dll
+c:\users\sjana\source\repos\WebApiDummies\WebApiDummies\obj\Debug\netcoreapp1.1\WebApiDummies.pdb

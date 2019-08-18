@@ -1,0 +1,16 @@
+c:\users\sjana\source\repos\WebApiDummies\Tests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+c:\users\sjana\source\repos\WebApiDummies\Tests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+c:\users\sjana\source\repos\WebApiDummies\Tests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+c:\users\sjana\source\repos\WebApiDummies\Tests\bin\Debug\netcoreapp2.2\Tests.deps.json
+c:\users\sjana\source\repos\WebApiDummies\Tests\bin\Debug\netcoreapp2.2\Tests.runtimeconfig.json
+c:\users\sjana\source\repos\WebApiDummies\Tests\bin\Debug\netcoreapp2.2\Tests.runtimeconfig.dev.json
+c:\users\sjana\source\repos\WebApiDummies\Tests\bin\Debug\netcoreapp2.2\Tests.dll
+c:\users\sjana\source\repos\WebApiDummies\Tests\bin\Debug\netcoreapp2.2\Tests.pdb
+c:\users\sjana\source\repos\WebApiDummies\Tests\bin\Debug\netcoreapp2.2\WebApiDummies.dll
+c:\users\sjana\source\repos\WebApiDummies\Tests\bin\Debug\netcoreapp2.2\WebApiDummies.pdb
+c:\users\sjana\source\repos\WebApiDummies\Tests\obj\Debug\netcoreapp2.2\Tests.csprojResolveAssemblyReference.cache
+c:\users\sjana\source\repos\WebApiDummies\Tests\obj\Debug\netcoreapp2.2\Tests.csproj.CoreCompileInputs.cache
+c:\users\sjana\source\repos\WebApiDummies\Tests\obj\Debug\netcoreapp2.2\Tests.AssemblyInfoInputs.cache
+c:\users\sjana\source\repos\WebApiDummies\Tests\obj\Debug\netcoreapp2.2\Tests.AssemblyInfo.cs
+c:\users\sjana\source\repos\WebApiDummies\Tests\obj\Debug\netcoreapp2.2\Tests.dll
+c:\users\sjana\source\repos\WebApiDummies\Tests\obj\Debug\netcoreapp2.2\Tests.pdb
