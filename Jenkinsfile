@@ -41,7 +41,9 @@ pipeline
         {
             steps
             {
-                echo "Test"
+                echo "Test start"
+                bat "dotnet test ${params.Repository}.sln"
+                echo "Test Success"
             }
         }
 
