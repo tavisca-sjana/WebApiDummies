@@ -47,7 +47,7 @@ pipeline
             }
         }
 
-        stage('Publish-Output')
+        stage('Publish')
         {
             steps
             {
@@ -68,7 +68,7 @@ pipeline
             }
         }
 
-        stage('Docker Push')
+        stage('Docker-Push')
         {
             steps
             {
